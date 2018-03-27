@@ -1,4 +1,9 @@
 ## AiryRoomXtrap
+[![release](https://img.shields.io/github/release/dwisiswant0/AiryRoomXtrap.svg)](https://github.com/dwisiswant0/AiryRoomXtrap/releases/)
+[![license](https://img.shields.io/github/license/dwisiswant0/AiryRoomXtrap.svg)](https://github.com/dwisiswant0/AiryRoomXtrap/blob/master/LICENSE)
+[![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwisiswant0/AiryRoomXtrap/issues)
+[![hits](http://hits.dwyl.com/dwisiswant0/AiryRoomXtrap.svg)](http://hits.dwyl.com/dwisiswant0/AiryRoomXtrap)
+
 Auto eXtrap & Check AiryRooms Coupon Codes.
 
 ## Proof
