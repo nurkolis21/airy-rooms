@@ -4,6 +4,7 @@ define("OS", strtolower(PHP_OS));
 
 /**
 * AiryRoomXtrap Coupon Codes
+* Auto eXtrap & Check AiryRooms Coupon Codes
 *
 * @category   Library
 * @package    dwisiswant0/AiryRoomXtrap
