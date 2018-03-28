@@ -1,5 +1,5 @@
 <?php
-$verbose = FALSE; // Set to TRUE if you don't want to display invalid code coupons
+$verbose = TRUE; // Set to TRUE if you don't want to display invalid code coupons
 $prefix = array(
 	[
 		"LG2", // set prefix
